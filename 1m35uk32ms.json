@@ -1,1 +1,4 @@
-{"target": "sellhub"}
+{
+  "card": false,
+  "crypto": true
+}
