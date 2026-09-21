@@ -1,5 +1,5 @@
 {
-  "card": true,
+  "card": false,
   "crypto": true,
   "stripe": true
 }
